@@ -1,0 +1,1 @@
+Cliquer sur le bouton pour générer une fiche
