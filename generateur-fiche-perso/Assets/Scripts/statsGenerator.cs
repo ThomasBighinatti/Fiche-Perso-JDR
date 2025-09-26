@@ -162,7 +162,7 @@ public class statsGenerator : MonoBehaviour
     
     public void DisplayRandomCharacter()
         {
-            Debug.Log("caca");
+            
             #region GenerateAttribute
             visage.text = listeVisages[Random.Range(0, listeVisages.Count)].ToString();
             sexualite.text = listeSexualite[Random.Range(0, listeSexualite.Count)].ToString();
